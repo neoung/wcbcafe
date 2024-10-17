@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+
+body {
+    color: rgb(25, 21, 25);
+    font-family: "나눔고딕", NanumGothic, "Philosopher";
+    line-height: 1.7;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-height: 100%;
+}
+
+.logo {
+    width: 210px;
+    margin-top: 14px;
+}
